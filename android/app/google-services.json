@@ -1,0 +1,249 @@
+{
+  "project_info": {
+    "project_number": "323993206789",
+    "firebase_url": "https://segari-e77e0.firebaseio.com",
+    "project_id": "segari-e77e0",
+    "storage_bucket": "segari-e77e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323993206789:android:66c3cad922082416729c6c",
+        "android_client_info": {
+          "package_name": "com.example.project_tes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323993206789-4rl30g12o1p4ld4ed8qtteuje5hme3hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAps67AZDEDOQAeOdlsPCLK3E-0lMZg7Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323993206789-4rl30g12o1p4ld4ed8qtteuje5hme3hk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "323993206789-2g0fancd3hsijov6182j2lr3nvi2r4cn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.segari.customer",
+                "app_store_id": "1555617383"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323993206789:android:09cfc3a62130ade9729c6c",
+        "android_client_info": {
+          "package_name": "id.segari.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323993206789-ovr9sc3i1j0saenub01v68d942c099d4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.segari.customer",
+            "certificate_hash": "4e7fc84e3db48003e7b8d7fccc5e20d84664806a"
+          }
+        },
+        {
+          "client_id": "323993206789-4rl30g12o1p4ld4ed8qtteuje5hme3hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAps67AZDEDOQAeOdlsPCLK3E-0lMZg7Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323993206789-4rl30g12o1p4ld4ed8qtteuje5hme3hk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "323993206789-2g0fancd3hsijov6182j2lr3nvi2r4cn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.segari.customer",
+                "app_store_id": "1555617383"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323993206789:android:a8031a696afeefa9729c6c",
+        "android_client_info": {
+          "package_name": "id.segari.customer.alpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323993206789-4rl30g12o1p4ld4ed8qtteuje5hme3hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAps67AZDEDOQAeOdlsPCLK3E-0lMZg7Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323993206789-4rl30g12o1p4ld4ed8qtteuje5hme3hk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "323993206789-2g0fancd3hsijov6182j2lr3nvi2r4cn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.segari.customer",
+                "app_store_id": "1555617383"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323993206789:android:a28154807e54a908729c6c",
+        "android_client_info": {
+          "package_name": "id.segari.customer.local"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323993206789-4rl30g12o1p4ld4ed8qtteuje5hme3hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAps67AZDEDOQAeOdlsPCLK3E-0lMZg7Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323993206789-4rl30g12o1p4ld4ed8qtteuje5hme3hk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "323993206789-2g0fancd3hsijov6182j2lr3nvi2r4cn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.segari.customer",
+                "app_store_id": "1555617383"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323993206789:android:7a9695ca71756a64729c6c",
+        "android_client_info": {
+          "package_name": "id.segari.whflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323993206789-ce5jjjjo417or9f8i9u02uh4hvpirfeg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.segari.whflutter",
+            "certificate_hash": "d9177e0f19f65b56fc25e0220c0ee53e6aa6b959"
+          }
+        },
+        {
+          "client_id": "323993206789-4rl30g12o1p4ld4ed8qtteuje5hme3hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAps67AZDEDOQAeOdlsPCLK3E-0lMZg7Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323993206789-4rl30g12o1p4ld4ed8qtteuje5hme3hk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "323993206789-2g0fancd3hsijov6182j2lr3nvi2r4cn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.segari.customer",
+                "app_store_id": "1555617383"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323993206789:android:eb98ea12e2f3997e729c6c",
+        "android_client_info": {
+          "package_name": "id.segari.whflutter.local"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323993206789-4rl30g12o1p4ld4ed8qtteuje5hme3hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAps67AZDEDOQAeOdlsPCLK3E-0lMZg7Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323993206789-4rl30g12o1p4ld4ed8qtteuje5hme3hk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "323993206789-2g0fancd3hsijov6182j2lr3nvi2r4cn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.segari.customer",
+                "app_store_id": "1555617383"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
